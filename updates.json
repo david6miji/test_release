@@ -1,8 +1,9 @@
 {
   "linux-x64-prod": {
     "readme": "Test release",
-    "update": "https://github.com/david6miji/wcc/releases/download/linux-x64-prod-v0.0.1/wcc-0.0.1-x86_64.AppImage",
-    "install": "https://github.com/david6miji/wcc/releases/download/linux-x64-prod-v0.0.1/wcc-0.0.1-x86_64.AppImage",
+    "update": "https://github.com/david6miji/test_release/releases/download/v0.0.1/wcc-0.0.1-x86_64.AppImage",
+    "install": "https://github.com/david6miji/test_release/releases/download/v0.0.1/wcc-0.0.1-x86_64.AppImage",
     "version": "0.0.1"
   }
 }
+
