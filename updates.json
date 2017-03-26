@@ -3,7 +3,7 @@
     "readme": "Test release",
     "update": "https://cdn.rawgit.com/david6miji/test_release/releases/download/v0.0.6/wcc-x86_64.AppImage",
     "install": "https://cdn.rawgit.com/david6miji/test_release/releases/download/v0.0.6/wcc-x86_64.AppImage",
-    "version": "0.0.6"
+    "version": "0.0.7"
   }
 }
 
