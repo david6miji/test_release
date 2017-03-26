@@ -1,9 +1,9 @@
 {
   "linux-x64-prod": {
     "readme": "Test release",
-    "update": "https://mega.nz/#!dXZmmB5T!FPb_ILbj5YKhouQbnmHdlnHt7Id8ZUTHiI3MJX4mr1I",
-    "install": "https://mega.nz/#!dXZmmB5T!FPb_ILbj5YKhouQbnmHdlnHt7Id8ZUTHiI3MJX4mr1I",
-    "version": "0.0.9"
+    "update": "https://sabercathost.com/8XlT/wcc-x86_64.AppImage",
+    "install": "https://sabercathost.com/8XlT/wcc-x86_64.AppImage",
+    "version": "0.0.10"
   }
 }
 
