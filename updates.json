@@ -1,9 +1,9 @@
 {
   "linux-x64-prod": {
     "readme": "Test release",
-    "update": "https://sabercathost.com/8XlT~i?7820114c204464bb0936c7fdd8f7c036",
-    "install": "https://sabercathost.com/8XlT~i?7820114c204464bb0936c7fdd8f7c036",
-    "version": "0.0.11"
+    "update": "https://david6miji.github.io/test_release/wcc-x86_64.AppImage",
+    "install": "https://david6miji.github.io/test_release/wcc-x86_64.AppImage",
+    "version": "0.0.12"
   }
 }
 
